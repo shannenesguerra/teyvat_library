@@ -1,1 +1,1 @@
-# teyvat_library
+A java project with a GUI.
