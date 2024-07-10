@@ -1,1 +1,1 @@
-## A java project with a GUI.
+A Java project with a GUI.
